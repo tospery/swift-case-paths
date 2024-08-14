@@ -10,7 +10,7 @@
 
 - ``subscript(case:)-6cdhl``
 - ``subscript(case:)-8yr2s``
-- ``modify(_:yield:fileID:filePath:line:column:)``
+- ``modify(_:yield:file:line:)``
 
 ### Case properties
 
